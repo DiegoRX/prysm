@@ -20,9 +20,9 @@ echo Use this script to download the latest Prysm release binaries.
 echo Downloaded binaries are saved to .\dist
 echo. 
 echo To specify a specific release version:
-echo  set USE_PRYSM_VERSION=v1.0.0-alpha3
+echo  set USE_PRYSM_VERSION=v4.0.0
 echo  to resume using the latest release:
-echo   set USE_PRYSM_VERSION=
+echo   set USE_PRYSM_VERSION=v4.0.0
 echo.
 echo To specify a non-portable version of BLST:
 echo  set USE_PRYSM_MODERN=1
